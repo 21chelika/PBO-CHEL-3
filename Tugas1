@@ -18,7 +18,7 @@ public class Tugas1 {
     ConanCariAnggota jebolanDon = new ConanCariAnggota("Filson Fisk", 42, "Nevada", 12000000);
     ConanCariAnggota jebolanUnderboss = new ConanCariAnggota("Gustavo Fring", 35, "Nevada", 1500000 );
     ConanCariAnggota jebolanCapo = new ConanCariAnggota("Jessie Pinkman", 24, "California", 900000);
-    ConanCariAnggota jebolanNusaPutra = new ConanCariAnggota("Salman Alfariji", 20, "Cianjur", 700);
+    ConanCariAnggota jebolanNusaPutra = new ConanCariAnggota("Chelika Patricia", 20, "Sukabumi", 700);
     System.out.println(getWarning(jebolanDon));
     System.out.println(getWarning(jebolanUnderboss));
     System.out.println(getWarning(jebolanCapo));
